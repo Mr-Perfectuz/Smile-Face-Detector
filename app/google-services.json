@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "229793493301",
+    "firebase_url": "https://smile-face-detector-app-a783f.firebaseio.com",
+    "project_id": "smile-face-detector-app-a783f",
+    "storage_bucket": "smile-face-detector-app-a783f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229793493301:android:1c7206bdc485933e8adc7c",
+        "android_client_info": {
+          "package_name": "mrperfect.example.smilefacedetectorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229793493301-p786cpbarbqegorei1ifiiic156dkis6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChB1Bdte4VmVYYtKd8jODPED8-3ywy9vA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229793493301-p786cpbarbqegorei1ifiiic156dkis6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
